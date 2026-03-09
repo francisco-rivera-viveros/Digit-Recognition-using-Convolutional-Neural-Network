@@ -25,6 +25,8 @@ This project implements a **Convolutional Neural Network (CNN)** using TensorFlo
 Below you can see the model in action, predicting digits drawn on the canvas:
 
 ![Digit Recognition CNN](https://github.com/user-attachments/assets/e3f45f78-2b25-4e95-9e79-7e43ecda9709)
+<img width="1345" height="1233" alt="image" src="https://github.com/user-attachments/assets/46ed5e62-7891-4c55-9f97-1d1a88d4db51" />
+
 
 
 ---
